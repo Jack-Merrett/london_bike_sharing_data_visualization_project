@@ -1,3 +1,4 @@
+![](https://gudphoto.com/bikenyc/wp-content/uploads/2012/04/20120418-DSCF0792.jpg)
 # London Bike Sharing Data Visualization Project
 
 This project focuses on analyzing and visualizing the London Bike Sharing dataset to gain insights into bike rental trends, usage patterns, and other relevant information. The dataset provides information about bike rentals in London, capturing details such as bike stations, rental timestamps, weather conditions, and more.
